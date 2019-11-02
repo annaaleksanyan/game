@@ -31,19 +31,6 @@
 //return bob
 //}
 
-//xndir 2 1)
-//var c = [45,60,12,98,78,154,65];
-//var m = [15,98,45,33,78,98,100,56,98]; 
-//var s1 = sumArray(c,m);
-//console.log(s1);
-//function sumArray(a,b){
-//var bob=0
-//for(let i=0;i<a.length;i++)
-//for(let h=0;h<b.length;h++)
-//bob+=a[i]+b[h]
-//return bob
-//}
-
 
 
 
